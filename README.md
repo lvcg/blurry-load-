@@ -2,8 +2,9 @@
 Simple Blurry Load Landing Page
 
 **Link to project:** [(https://lvcg.github.io/blurry-load-/)](https://lvcg.github.io/blurry-load-/)
+[098f4830-c094-466c-9da5-3474a51a75c8.webm](https://user-images.githubusercontent.com/64934558/206028286-048be959-c986-49e4-9e01-f66aec6ac8b3.webm)
 
-![Capture1](https://user-images.githubusercontent.com/64934558/206010736-77522b0d-af6e-4b68-920f-ac58037ef19b.PNG)
+
 
 ## How It's Made:
 
